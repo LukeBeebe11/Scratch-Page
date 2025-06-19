@@ -1,9 +1,3 @@
-body {
-  background-image: url("BW%20el%20cap.jpeg");
-  background-size: cover;
-  background-position: center;
-  background-repeat: no-repeat;
-  background-attachment: fixed;
 /* === Base Layout === */
 body {
   background-color: #e9f1f7; /* light slate-blue background */
